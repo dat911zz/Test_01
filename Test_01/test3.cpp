@@ -212,7 +212,7 @@ void showArray(int* x,int n)
     }
 }
 
-// Driver code
+// Driver code 
 int main()
 {
     int a[100];
@@ -229,6 +229,5 @@ int main()
         showArray(a, n);
         cout << endl;
     }
-
     return 0;
 }
